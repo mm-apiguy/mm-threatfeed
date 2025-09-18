@@ -686,7 +686,6 @@ versautho-858osp06582califier-0t54dg44.s3.eu-central-1.amazonaws.com
 *firstmoments.ca
 ipfs.io
 silkchains.com.au
-nicktest.com
 accounts-centerfb.com
 mediachameleonsocialnetworks.co.uk
 recipe30.com
@@ -710,4 +709,3 @@ neobiz.com.br
 synergie-support.s3.eu-north-1.amazonaws.com
 tolvoes.com
 yisamax.com
-nicktestagain.com.au
